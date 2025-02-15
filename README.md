@@ -1,7 +1,5 @@
 # Aqar Analysis
 
-**Team Members**: Faisal Alkulaib, Ghadah Alsulami, Muhannad Alahmadi, Ghada Mohammed, Sara Altamimi
-
 ## Introduction (Problem, Objectives)
 This project aims to analyze and understand the distribution and pricing trends of residential and commercial land across neighborhoods in Riyadh. By examining key factors such as location, purpose (residential or commercial), and average price per square meter, the goal is to identify the neighborhoods with the highest land demand and the characteristics influencing land value. This analysis will provide valuable insights for investors, urban planners, and policymakers in the real estate market.
 
